@@ -20,10 +20,10 @@ Any other usage, particularly for bypassing network security measures without ex
 
 ## **核心功能**  
 
-- **多协议支持**：兼容多种主流代理协议，满足不同场景需求。
+- **多协议支持**：支持多种主流代理协议，适应各种复杂网络环境的需求。
 - **IPv4/IPv6/UDP 穿透**：无论是 IPv4 还是 IPv6 环境，NETPGO 都能实现无缝穿透，并支持 UDP 协议传输。
 - **全程序代理**：通过驱动层实现的代理支持，无需对目标程序进行注入操作，即可让任意程序通过代理连接（即使该程序本身不支持代理）。
-- **即开即用**：无需安装繁琐的依赖（如 WinPcap），解压即可使用。
+- **即开即用**：无需额外依赖，解压即用，简单高效。
 - **零配置启动**：简单易用，无需复杂设置，快速上手。
 
 
@@ -41,7 +41,7 @@ NETPGO 支持以下主流代理协议，确保您能够自由选择最适合的�
 
 ## **特色亮点**  
 - **免安装设计**：无需安装，解压即用，占用资源少，运行效率高。
-- **驱动级代理**：通过底层驱动实现代理支持，避免传统注入方式可能带来的兼容性问题。
+- **驱动级代理**：基于底层驱动技术，避免传统注入方式的兼容性问题，稳定性更强。
 - **日志与监控**：实时查看网络连接状态和日志信息，方便排查问题。
 - **高度可定制**：支持灵活修改设置，满足个性化需求。
 
@@ -50,7 +50,7 @@ NETPGO 支持以下主流代理协议，确保您能够自由选择最适合的�
 在使用 NETPGO 时，请注意以下几点：  
 
 1. **代理服务需自行准备**  
-   NETPGO 本身不提供任何代理服务或节点支持，请您自行配置代理服务器或订阅地址。
+   NETPGO 不提供任何形式的代理服务或节点支持。请使用合法合规的代理服务器，并确保其来源可靠。
 
 2. **订阅地址仅供参考**  
    Release 中包含的代理订阅地址来源于网络收集，仅供测试使用，不保证长期有效。建议您根据实际需求自行添加可靠的订阅源。
@@ -94,4 +94,11 @@ NETPGO 是一个开源项目，非常欢迎您的参与和支持！如果您有�
 
 
 ## **重要提示**  
-本项目仅用于技术学习、研究及合法合规的网络测试。使用者必须遵守所在国家/地区的法律法规，不得用于任何非法用途。开发者不对因不当使用导致的后果承担责任。
+本项目仅用于技术学习、研究及合法合规的网络测试。<br>
+使用者必须遵守所在国家/地区的法律法规，不得用于任何非法用途。<br>
+开发者不对因不当使用导致的后果承担责任。<br>
+
+This project is intended solely for technical learning, research, and legally compliant network testing. <br>
+Users must comply with the laws and regulations of their country/region and must not use it for any illegal purposes. <br>
+The developer assumes no responsibility for any consequences resulting from improper use.<br>
+
