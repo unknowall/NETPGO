@@ -1,4 +1,5 @@
 # **NETPGO**
+![Research Use Only](https://img.shields.io/badge/Intended%20Use-Protocol%20Research%20Only-red.svg)<br>
 NETPGO 是一款功能强大且灵活的科学上网工具，专为支持多种代理协议而设计。无论您是需要穿透复杂的网络环境，还是希望为任意程序提供代理支持，NETPGO 都能为您提供高效、便捷的解决方案。
 
 ## **LEGAL NOTICE & INTENDED USE**
