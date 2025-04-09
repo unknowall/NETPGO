@@ -2,7 +2,7 @@
 ![GPLv3 License](https://img.shields.io/badge/License-GPL%203.0-blue.svg?logo=gnu) ![Research Use Only](https://img.shields.io/badge/Intended%20Use-Protocol%20Research%20Only-red.svg)<br>
 NETPGO 是一款功能强大且灵活的科学上网工具，专为支持多种代理协议而设计。无论您是需要穿透复杂的网络环境，还是希望为任意程序提供代理支持，NETPGO 都能为您提供高效、便捷的解决方案。
 
-## **LEGAL NOTICE & INTENDED USE**
+## **⚠️ LEGAL NOTICE & INTENDED USE**
 This project is a network protocol analysis framework designed for:  
 - Academic research on communication protocols  
 - Enterprise network debugging in controlled environments  
@@ -10,7 +10,7 @@ This project is a network protocol analysis framework designed for:
 
 Any other usage, particularly for bypassing network security measures without explicit authorization, violates the fundamental purpose of this tool and may constitute illegal activity in many jurisdictions.  
 
-## **法律声明与预期用途**
+## **⚠️ 法律声明与预期用途**
 本项目是一个网络协议分析框架，专为以下用途设计：
 
 - 通信协议的学术研究
@@ -18,6 +18,14 @@ Any other usage, particularly for bypassing network security measures without ex
 - 网络安全防御机制的开发
 
 任何其他用途，尤其是未经授权规避网络安全措施的行为，均违反了本工具的基本目的，并可能在许多司法管辖区构成违法行为。
+
+## ⚠️ 双属地法律约束
+本仓库受GitHub服务条款及开发者所在司法管辖区法律双重约束。您访问或使用本项目的任一行为，即视为：
+1. 承诺不用于任何国家关键信息基础设施
+2. 接受中国《网络安全法》第二十一条约束
+3. 确认不违反美国出口管制条例（EAR）
+4. 不在中国境内搭建跨网通道
+5. 不接入《中国禁止出口技术目录》所列技术
 
 ## **核心功能**  
 
