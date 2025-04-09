@@ -1,5 +1,5 @@
 # **NETPGO**
-![Research Use Only](https://img.shields.io/badge/Intended%20Use-Protocol%20Research%20Only-red.svg)<br>
+![GPLv3 License](https://img.shields.io/badge/License-GPL%203.0-blue.svg?logo=gnu)[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Funknowall%2FNETPGO.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Funknowall%2FNETPGO) ![Research Use Only](https://img.shields.io/badge/Intended%20Use-Protocol%20Research%20Only-red.svg)<br>
 NETPGO 是一款功能强大且灵活的科学上网工具，专为支持多种代理协议而设计。无论您是需要穿透复杂的网络环境，还是希望为任意程序提供代理支持，NETPGO 都能为您提供高效、便捷的解决方案。
 
 ## **LEGAL NOTICE & INTENDED USE**
@@ -46,7 +46,6 @@ NETPGO 支持以下主流代理协议，确保您能够自由选择最适合的�
 - **日志与监控**：实时查看网络连接状态和日志信息，方便排查问题。
 - **高度可定制**：支持灵活修改设置，满足个性化需求。
 
-
 ## **注意事项**  
 在使用 NETPGO 时，请注意以下几点：  
 
@@ -59,6 +58,18 @@ NETPGO 支持以下主流代理协议，确保您能够自由选择最适合的�
 3. **合法合规使用**  
    请确保您的使用行为符合当地法律法规，NETPGO 开发者不对因不当使用导致的后果负责。
 
+4. **零数据记录**<br>
+   本工具不记录任何网络流量元数据
+
+5. **证书验证**<br>
+   本工具强制开启TLS 1.3完整握手验证
+
+## **常见问题**
+Q: 为什么需要管理员权限？  
+A: 驱动级网络过滤需要内核模式操作权限
+
+Q: 如何验证流量加密？  
+A: 使用Wireshark捕获本地回环流量
 
 
 ## **界面展示**  
