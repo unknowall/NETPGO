@@ -84,7 +84,7 @@ A: 使用Wireshark捕获本地回环流量
 以下是 NETPGO 的部分界面截图，帮助您快速了解其功能布局和操作体验：
 
 ### 启动后的主界面  
-![netpgo](https://github.com/user-attachments/assets/0ad040c8-7e0d-4b94-b94d-9dfc01dd635a)
+![netpgo](https://github.com/user-attachments/assets/17bf3306-fc54-4d86-887c-4c2f9541c546)
 
 ### 主界面功能区  
 ![netpgo-srv](https://github.com/user-attachments/assets/f10767a8-8578-482e-9717-3dfb9b74a91e)  
